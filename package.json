@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests yet\" && exit 0",
-    "build": "nodeindex.js",
+    "build": "node index.js",
     "start": "node index.js"
   },
   "keywords": [],
